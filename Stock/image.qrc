@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>image.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>facebook-favicon.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>google-favicon.png</file>
+  </qresource>
+</RCC>
